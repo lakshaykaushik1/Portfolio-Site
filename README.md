@@ -80,6 +80,11 @@ _A fully responsive, interactive 3D developer showcase._
 </p>
 
 ---
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
 
 ## 🛠️ Installation
 
