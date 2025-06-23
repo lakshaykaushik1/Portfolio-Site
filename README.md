@@ -74,9 +74,8 @@ _A fully responsive, interactive 3D developer showcase._
 ## 📸 Preview
 
 <p align="center">
-  <img src="screenshots/home.png" width="48%" alt="Home Page" />
+  <img src="Home.png" width="48%" alt="Home Page" />
   &nbsp;
-  <img src="screenshots/about.png" width="48%" alt="About Page" />
 </p>
 
 ---
