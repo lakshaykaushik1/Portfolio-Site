@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/lakshaykaushik1/Portfolio-Site" alt="License"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/lakshaykaushik1/Portfolio-Site?cacheSeconds=1" alt="License"></a>
   <img src="https://img.shields.io/github/last-commit/lakshaykaushik1/Portfolio-Site" alt="Last Commit">
   <img src="https://img.shields.io/github/deployments/lakshaykaushik1/Portfolio-Site/github-pages" alt="Deployment">
 </p>
